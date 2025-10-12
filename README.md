@@ -56,7 +56,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Agentic-Kubernetes-Management.git
+git clone https://github.com/Tarique-B-DevOps/Agentic-Kubernetes-Management.git
 cd Agentic-Kubernetes-Management
 ```
 
